@@ -1,10 +1,12 @@
 {
   "name": "whatpulse-pie",
+  "homepage": "https://test.joewoods.dev/whatpulse_pie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-minimal-pie-chart": "^3.5.0",
     "react-scripts": "2.1.8"
   },
   "scripts": {
